@@ -1,1 +1,1 @@
-# loowatcher
+# Chrome Extension Sample
